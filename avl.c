@@ -2,14 +2,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/****
-  Student1 name: Reem Younis
-  Student2 name: Majd Farah
-  
-  Student1 ID: 208593970
-  Student2 ID: 316139849
-****/
-
 // Utilities
 // this function prints both submitters names and ids in this format:
 // NAME1
